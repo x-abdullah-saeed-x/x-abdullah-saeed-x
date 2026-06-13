@@ -142,12 +142,6 @@ class Abdullah:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=x-abdullah-saeed-x&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=x-abdullah-saeed-x&theme=darkhub&no-frame=true&margin-w=4&margin-h=4&column=7&title=Stars,Commits,Followers,Repositories,Issues,PullRequest,Reviews" />
-</a>
-
 </div>
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
