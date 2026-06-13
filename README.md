@@ -1,87 +1,181 @@
-# <div align="center">👋 Hi, I'm Abdullah — Data Scientist & Frontend Developer 🚀</div>
+<!-- ===================== HEADER ===================== -->
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abdullah%20Saeed&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20ML%20Enthusiast&descAlignY=58&descSize=18" />
+</a>
 
+<!-- ===================== TYPING + PROFILE VIEWS ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;Frontend+Developer;UI%2FUX+Designer;Always+Building+%26+Learning" />
-</div>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&height=50&lines=Turning+raw+data+into+real+decisions;Building+clean%2C+fast%2C+human+interfaces;Machine+Learning+%7C+97%25+model+accuracy;Always+shipping%2C+always+learning+%F0%9F%9A%80" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" height="200" width="400"/>
-</div>
+  <br/>
 
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-## 📱 Human Activity Recognition System
-*A smartphone-based classification system processing inertial signals to recognize human activities.*  
-**Tech:** Python, Jupyter Notebook, PCA, Logistic Regression, Neural Networks  
-Features: 561 numeric sensor features, dimensional reduction, 97% validation accuracy NN  
-**Status:**  ✅ Completed
-
----
-
-## 🎓 EventDhundo — Campus Event Discovery & Portfolio Platform
-*A centralized hub for university event discovery, registration management, and digital portfolios.*  
-**Tech:** React.js, Node.js, Express.js, Tailwind CSS, Material-UI, SQL Server  
-Features: Personalized recommendations, QR-code attendance tracking, automated PDF portfolios  
-**Status:** 🟢 Completed / Prototype Ready
+  <img src="https://komarev.com/ghpvc/?username=x-abdullah-saeed-x&label=Profile+Views&color=00d9ff&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/x-abdullah-saeed-x?label=Followers&style=flat-square&color=00d9ff" alt="followers" />
+  <a href="https://linkedin.com/in/x-abdullah-saeed-x"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 
 </div>
 
----
+<!-- ===================== ABOUT (two-column) ===================== -->
+<table align="center" width="100%">
+<tr>
+<td width="62%" valign="top">
 
-# 💻 Tech Stack & Tools
+### 🧠 whoami
 
+```python
+class Abdullah:
+    def __init__(self):
+        self.role      = "Data Scientist & Frontend Dev"
+        self.focus     = ["Machine Learning", "UI/UX", "Web Apps"]
+        self.learning  = ["Deep Learning", "System Design"]
+        self.motto     = "Ownership > Excuses"
+
+    def current_status(self):
+        return "Building & breaking things ⚙️"
+```
+
+- 🔭 Working on **ML pipelines** and **React products**
+- 🌱 Diving deeper into **neural networks** & **scalable frontends**
+- ⚡ I believe **strong character beats strong code**
+- 💬 Ask me about **Python, React, or data wrangling**
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" width="100%" alt="coding animation" />
+
+</td>
+</tr>
+</table>
+
+<!-- ===================== TECH STACK ===================== -->
 <div align="center">
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+## ⚙️ Tech Arsenal
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=2&width=100%" />
 
-### 🗄️ Databases
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+<table>
+<tr>
+<td align="center"><b>🎨 Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🧠 Data / ML</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /></td>
+</tr>
+<tr>
+<td align="center"><b>🛠️ Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma&theme=dark" /></td>
+</tr>
+</table>
 
-### 🔧 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+<br/>
 
-### 🧠 Data Science & Machine Learning
 <img src="https://img.shields.io/badge/Machine%20Learning-2F4F4F?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Neural%20Networks-412991?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PCA%20%26%20Signal%20Processing-005571?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Analytics-FF6B6B?style=flat-square&logo=pandas&logoColor=white" />
 
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
-
 </div>
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x-abdullah-saeed-x&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-abdullah-saeed-x&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-# 🤝 Let's Connect
-
+<!-- ===================== FEATURED PROJECTS ===================== -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/x-abdullah-saeed-x)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x-abdullah-saeed-x)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+## 🚀 Featured Projects
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 📱 Human Activity Recognition
+> Smartphone-based system that classifies human activity from inertial sensor signals.
+
+```diff
++ 561 numeric sensor features
++ PCA dimensional reduction
++ 97% validation accuracy (NN)
+```
+**Stack:** `Python` `Jupyter` `PCA` `Logistic Regression` `Neural Nets`
+
+![Status](https://img.shields.io/badge/Status-Completed-2ea043?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 EventDhundo
+> Campus event discovery, registration, and digital portfolio platform.
+
+```diff
++ Personalized event recommendations
++ QR-code attendance tracking
++ Automated PDF portfolio export
+```
+**Stack:** `React` `Node` `Express` `Tailwind` `MUI` `SQL Server`
+
+![Status](https://img.shields.io/badge/Status-Prototype%20Ready-2ea043?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<!-- ===================== GITHUB STATS ===================== -->
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=x-abdullah-saeed-x&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-abdullah-saeed-x&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=x-abdullah-saeed-x&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=x-abdullah-saeed-x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=x-abdullah-saeed-x&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
+
+<!-- snake animation -->
+<img width="95%" src="https://raw.githubusercontent.com/x-abdullah-saeed-x/x-abdullah-saeed-x/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+<!-- ===================== CONNECT ===================== -->
+<div align="center">
+
+## 🤝 Let's Build Together
+
+<a href="https://linkedin.com/in/x-abdullah-saeed-x"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/x-abdullah-saeed-x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<!-- ===================== PERSONAL MOTTO ===================== -->
 <div align="center">
 
 > *"Strong character beats strong code.*  
@@ -89,16 +183,11 @@ Features: Personalized recommendations, QR-code attendance tracking, automated P
 
 **— Abdullah**
 
----
+<br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-**⭐ From Abdullah with ❤️**  
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+**⭐ From Abdullah with ❤️**
 
 </div>
+
+<!-- ===================== FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontColor=00D9FF&fontSize=18&fontAlignY=70" />
