@@ -177,11 +177,11 @@ class Abdullah:
 > *"Strong character beats strong code.*  
 > *Accountability > Talent. Ownership > Excuses."*
 
-**— Abdullah**
+**— Saeed**
 
 <br/>
 
-**⭐ From Abdullah with ❤️**
+**⭐ From Saeed with ❤️**
 
 </div>
 
