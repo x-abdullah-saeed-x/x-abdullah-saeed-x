@@ -144,7 +144,9 @@ class Abdullah:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=x-abdullah-saeed-x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=x-abdullah-saeed-x&theme=darkhub&no-frame=true&margin-w=4&margin-h=4&column=7&title=Stars,Commits,Followers,Repositories,Issues,PullRequest,Reviews" />
+</a>
 
 </div>
 
