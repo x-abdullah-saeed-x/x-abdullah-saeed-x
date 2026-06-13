@@ -43,7 +43,7 @@ class Abdullah:
 </td>
 <td width="38%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" width="100%" alt="coding animation" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="coding animation" />
 
 </td>
 </tr>
